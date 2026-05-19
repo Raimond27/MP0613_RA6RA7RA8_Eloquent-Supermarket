@@ -1,6 +1,16 @@
 # Supermarket App
 
 This Laravel-based application serves as a comprehensive system for managing a supermarket’s online presence. It includes features such as product listings, category management, fee configuration, calendar events, user authentication/profiles, and export functionality. The project is built with Laravel, Bootstrap, and various third-party libraries.
+Landing page
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/5144a5e2-df92-48d3-b444-85184c1dd601" />
+Products
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/8cb9b2c6-cf77-4460-8775-fea6eaed477b" />
+Categories
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/f9ee1426-6a17-4ae4-8135-e3974efa6f71" />
+Fees
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/69288ebe-16e8-4779-984d-d9aed3fca621" />
+Calendar
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/50a252fd-8371-4889-9078-84bb2cd68e55" />
 
 ---
 
