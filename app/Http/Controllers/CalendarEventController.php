@@ -46,8 +46,7 @@ class CalendarEventController extends Controller
         $prevMonth = $selectedDate->copy()->subMonth();
         $nextMonth = $selectedDate->copy()->addMonth();
 
-        // Retrieve all events for the current user.
-        $allEvents = CalendarEvent::where('user_id', Auth::id())->get();
+      $allEvents = CalendarEvent:: all();
 
         // Prepare events organized by day.
         $eventsByDay = [];
