@@ -134,7 +134,7 @@ class ProductController extends Controller
             $product->fees()->sync([
                 $validated['fee_id'] => [
                     'variation_type' => $validated['variation_type'],
-                    'variation_amount' => $validated['variation_amount'],
+                    'variation_ammount' => $validated['variation_amount'],
                 ],
             ]);
         } else {
